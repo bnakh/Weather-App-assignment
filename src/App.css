@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+background-color: #413c78;
+
+}
+nav a{
+  margin: 2rem;
+  color: white;
+  text-decoration: none;
+}
+nav a:hover{
+  color: #9988c4;
+}
+.Home{
+  background-color: #413c78; 
+}
+.Detail-page img{
+border-radius: 10px;
+  width: 5%;
+} 
+.city a {
+  text-decoration: none;
+  color: white;
+}
+.city a :hover{
+  color: #9988c4;
+}
